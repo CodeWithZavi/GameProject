@@ -1,4 +1,4 @@
-# 🕹️ Street Kombat - Unity 3D Fighting Game
+# 🕹️ Apex Showdown - Unity 3D Fighting Game
 
 Welcome to **Street Kombat**, a 3D fighting game created as part of my coursework at **COMSATS University** under the guidance of our amazing instructor!  
 This game features smooth player movement, enemy battles, obstacle challenges, and a custom UI — built uniquely using Unity.
